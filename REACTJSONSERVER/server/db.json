@@ -1,0 +1,24 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "James"
+        },
+        {
+            "id": 2,
+            "name": "John"
+        },
+        {
+            "id": 3,
+            "name": "Tommy"
+        },
+        {
+            "id": 4,
+            "name": "Jean"
+        },
+        {
+            "id": 5,
+            "name": "Clausess"
+        }
+    ]
+}
